@@ -43,7 +43,7 @@ class _SplashScreenState extends State<SplashScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Your App Name',
+              'Testing',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             const SizedBox(height: 16),
